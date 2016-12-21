@@ -24,6 +24,9 @@ Many thanks to [rayhaanj](https://github.com/rayhaanj), [Mechazawa](https://gith
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/1175750/8614312/280e5dc2-26f1-11e5-9f1f-5891c3ca8b26.png" alt="Screenshot"/>
 </p>
+<p align="center">
+<img: src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/519px-Tottenham_Hotspur.svg.png" alt="Screenshot"/>
+</p>
 
 That screenshot is fake, by the way. I never reached 2048 :smile:
 
